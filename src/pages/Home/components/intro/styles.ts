@@ -29,7 +29,6 @@ export const IntroContent = styled.div`
         height: 22.5rem;
     }
     @media (max-width: 1020px) {
-    margin-top: 5rem;
         img{
             display: none;
         }
