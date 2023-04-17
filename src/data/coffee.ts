@@ -4,7 +4,7 @@ export const coffees = [
       tags: ["traditional"],
       name: "Espresso",
       description: "Traditional coffee made with hot water and ground beans",
-      photo: "src/assets/flavors/espresso.png",
+      photo: "espresso.png",
       price: 2.9,
     },
     {
@@ -12,7 +12,7 @@ export const coffees = [
       tags: ["traditional"],
       name: "Americano",
       description: "Espresso that has been diluted and is less strong than the classic one",
-      photo: "/src/assets/flavors/americano.png",
+      photo: "americano.png",
       price: 2.9,
     },
     {
@@ -20,7 +20,7 @@ export const coffees = [
       tags: ["traditional"],
       name: "Espresso Crema",
       description: "Traditional espresso with creamy foam",
-      photo: "/src/assets/flavors/espresso-crema.png",
+      photo: "espresso-crema.png",
       price: 3.9,
     },
     {
@@ -28,7 +28,7 @@ export const coffees = [
       tags: ["traditional", "iced"],
       name: "Iced Coffee",
       description: "Drink prepared with espresso coffee and ice cubes",
-      photo: "/src/assets/flavors/iced-coffee.png",
+      photo: "iced-coffee.png",
       price: 2.9,
     },
     {
@@ -36,7 +36,7 @@ export const coffees = [
       tags: ["traditional", "with milk"],
       name: "Café au lait",
       description: "Traditional espresso with steamed milk",
-      photo: "/src/assets/flavors/cafe-au-lait.png",
+      photo: "cafe-au-lait.png",
       price: 2.9,
     },
     {
@@ -45,7 +45,7 @@ export const coffees = [
       name: "Latte",
       description:
         "A shot of espresso with twice as much milk and creamy foam",
-      photo: "/src/assets/flavors/latte.png",
+      photo: "latte.png",
       price: 4.9,
     },
     {
@@ -54,7 +54,7 @@ export const coffees = [
       name: "Capuccino",
       description:
         "Cinnamon beverage created with equal parts coffee, milk, and foam",
-      photo: "/src/assets/flavors/capuccino.png",
+      photo: "capuccino.png",
       price: 4.9,
     },
     {
@@ -63,7 +63,7 @@ export const coffees = [
       name: "Macchiato",
       description:
         "Espresso coffee drink, topped with a small amount of foamed or steamed milk",
-      photo: "/src/assets/flavors/macchiato.png",
+      photo: "macchiato.png",
       price: 4.9,
     },
     {
@@ -71,7 +71,7 @@ export const coffees = [
       tags: ["traditional", "with milk"],
       name: "Mochaccino",
       description: "Drink made with espresso, chocolate syrup, and steamed milk",
-      photo: "/src/assets/flavors/mochaccino.png",
+      photo: "mochaccino.png",
       price: 4.9,
     },
     {
@@ -79,7 +79,7 @@ export const coffees = [
       tags: ["special", "with milk"],
       name: "Hot Chocolate",
       description: "Drink made with chocolate dissolved in hot milk and coffee",
-      photo: "/src/assets/flavors/hot-chocolate.png",
+      photo: "hot-chocolate.png",
       price: 2.9,
     },
     {
@@ -88,7 +88,7 @@ export const coffees = [
       name: "Cuban Espresso",
       description:
         "Iced espresso drink with rum, cream and mint",
-      photo: "/src/assets/flavors/cuban-espresso.png",
+      photo: "cuban-espresso.png",
       price: 3.9,
     },
     {
@@ -96,7 +96,7 @@ export const coffees = [
       tags: ["special"],
       name: "Hawaiian",
       description: "Sweet drink prepared with coffee and coconut milk",
-      photo: "/src/assets/flavors/hawaiian.png",
+      photo: "hawaiian.png",
       price: 4.9,
     },
     {
@@ -104,7 +104,7 @@ export const coffees = [
       tags: ["special"],
       name: "Arabic",
       description: "Drink prepared with Arabic coffee beans and spices",
-      photo: "/src/assets/flavors/arabic.png",
+      photo: "arabic.png",
       price: 3.9,
     },
     {
@@ -112,7 +112,7 @@ export const coffees = [
       tags: ["special", "alcoholic"],
       name: "Irish",
       description: "Alcoholic drink consisting of Irish whiskey, hot coffee and sugar",
-      photo: "/src/assets/flavors/irish.png",
+      photo: "irish.png",
       price: 5.9,
     },
   ];
