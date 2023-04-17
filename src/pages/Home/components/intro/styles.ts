@@ -31,6 +31,7 @@ export const IntroContent = styled.div`
     @media (max-width: 1020px) {
         img{
             display: none;
+            margin-top: 5rem;
         }
     };
 `;
