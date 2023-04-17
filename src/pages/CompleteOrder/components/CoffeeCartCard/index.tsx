@@ -28,7 +28,7 @@ export function CoffeeCartCard({ coffee }: CoffeeCartCardProps) {
     return (
         <CoffeeCartCardContainer>
             <div>
-                <img src={coffee.photo} alt={coffee.name} />
+                <img src={`/coffees/${coffee.photo}`} alt={coffee.name} />
                 <div>
                     <RegularText color="subtitle">{coffee.name}</RegularText>
                     <ActionsContainer>
