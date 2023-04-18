@@ -11,8 +11,8 @@ The app features three screens: a presentation screen with a list of available c
 
 ### Libraries used:
 
-- styled-components
-- react-router-dom
+- Styled-components
+- React-router-dom
 - React Hook Form
 - Local Storage
 - Phosphor Icons
